@@ -1,1 +1,1 @@
-# cognitive
+# Cognitive Robotics Coursework
